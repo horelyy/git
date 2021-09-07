@@ -1,1 +1,1 @@
-akskskskaka
+print("Hello word!")
